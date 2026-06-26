@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
 
     <PackageId>Swevo.MassTransit.TestKit</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Justin Bannister</Authors>
     <Copyright>Copyright (c) 2025 Justin Bannister</Copyright>
     <Description>Lightweight test doubles for MassTransit request/response and publish patterns. FakeRequestClient&lt;TRequest&gt; captures requests and returns configured responses without running the full MassTransit test harness. FakePublishEndpoint captures published messages for assertion. Works with any test framework.</Description>
