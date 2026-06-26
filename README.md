@@ -1,7 +1,7 @@
-# MassTransit.RequestClient.TestKit
+# Swevo.MassTransit.TestKit
 
-[![NuGet](https://img.shields.io/nuget/v/MassTransit.RequestClient.TestKit.svg)](https://www.nuget.org/packages/MassTransit.RequestClient.TestKit/)
-[![Build](https://github.com/Swevo/MassTransit.RequestClient.TestKit/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/MassTransit.RequestClient.TestKit/actions/workflows/build.yml)
+[![NuGet](https://img.shields.io/nuget/v/Swevo.MassTransit.TestKit.svg)](https://www.nuget.org/packages/Swevo.MassTransit.TestKit/)
+[![Build](https://github.com/Swevo/Swevo.MassTransit.TestKit/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/Swevo.MassTransit.TestKit/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Lightweight test doubles for MassTransit request/response patterns. Drop-in fakes for `IRequestClient<T>` and `IPublishEndpoint` — no harness, no bus, no infrastructure.
@@ -22,7 +22,7 @@ Lightweight test doubles for MassTransit request/response patterns. Drop-in fake
 ## Installation
 
 ```bash
-dotnet add package MassTransit.RequestClient.TestKit
+dotnet add package Swevo.MassTransit.TestKit
 ```
 
 ---
