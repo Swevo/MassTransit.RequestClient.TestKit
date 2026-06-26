@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MassTransit.RequestClient.TestKit/MassTransit.RequestClient.TestKit.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MassTransit.RequestClient.TestKit.Tests/MassTransit.RequestClient.TestKit.Tests.csproj" />
+  </Folder>
+</Solution>
