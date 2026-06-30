@@ -1,6 +1,7 @@
 # Swevo.MassTransit.TestKit
 
-[![NuGet](https://img.shields.io/nuget/v/Swevo.MassTransit.TestKit.svg)](https://www.nuget.org/packages/Swevo.MassTransit.TestKit/)
+[![NuGet](https://img.shields.io/nuget/v/Swevo.MassTransit.TestKit
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Swevo.MassTransit.TestKit.svg)](https://www.nuget.org/packages/Swevo.MassTransit.TestKit).svg)](https://www.nuget.org/packages/Swevo.MassTransit.TestKit/)
 [![Build](https://github.com/Swevo/Swevo.MassTransit.TestKit/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/Swevo.MassTransit.TestKit/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
