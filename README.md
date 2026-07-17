@@ -138,6 +138,16 @@ var result = await handler.Handle(new GetDeviceQuery(deviceId), CancellationToke
 | [**AutoDispatch.Generator**](https://github.com/Swevo/AutoDispatch.Generator) | Compile-time CQRS dispatcher — `[Handler]` generates a strongly-typed `IDispatcher`. No MediatR, no reflection. |
 | [**AutoWire**](https://github.com/Swevo/AutoWire) | Compile-time DI auto-registration — `[Scoped]`/`[Singleton]`/`[Transient]` generates `IServiceCollection` registration code. |
 | [**AutoMap.Generator**](https://github.com/Swevo/AutoMap.Generator) | Compile-time object mapping with generated extension methods. AOT-safe AutoMapper alternative. |
+
+## Related Packages
+
+| Package | Downloads | Description |
+|---|---|---|
+| [Swevo.HttpClient.TestKit](https://www.nuget.org/packages/Swevo.HttpClient.TestKit) | [![Downloads](https://img.shields.io/nuget/dt/Swevo.HttpClient.TestKit.svg)](https://www.nuget.org/packages/Swevo.HttpClient.TestKit) | FakeHttpMessageHandler for unit-testing HttpClient calls without mocking frameworks |
+| [Swevo.AutoTestData](https://www.nuget.org/packages/Swevo.AutoTestData) | [![Downloads](https://img.shields.io/nuget/dt/Swevo.AutoTestData.svg)](https://www.nuget.org/packages/Swevo.AutoTestData) | Compile-time test data builders for  |
+
+---
+
 ## License
 
 MIT © 2025 Justin Bannister
